@@ -1,6 +1,3 @@
 {
-	"parent": "minecraft:item/generated",
-	"textures": {
-		"layer0": "cittofirmgenerated:item/enchant_books/farming/potato"
-	}
+	"parent": "firmskyblock:item/turbo_potato__1"
 }

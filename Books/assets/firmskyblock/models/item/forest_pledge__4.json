@@ -1,6 +1,3 @@
 {
-	"parent": "minecraft:item/generated",
-	"textures": {
-		"layer0": "cittofirmgenerated:item/enchant_books/armor/forest_pledge"
-	}
+	"parent": "firmskyblock:item/forest_pledge__3"
 }

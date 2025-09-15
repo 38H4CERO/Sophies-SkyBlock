@@ -1,6 +1,3 @@
 {
-	"parent": "minecraft:item/generated",
-	"textures": {
-		"layer0": "cittofirmgenerated:item/enchant_books/fishing/ulti_flash"
-	}
+	"parent": "firmskyblock:item/ultimate_flash__1"
 }

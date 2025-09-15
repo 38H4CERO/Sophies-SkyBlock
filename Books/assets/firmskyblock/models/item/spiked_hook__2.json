@@ -1,6 +1,3 @@
 {
-	"parent": "minecraft:item/generated",
-	"textures": {
-		"layer0": "cittofirmgenerated:item/enchant_books/fishing/spiked_hook"
-	}
+	"parent": "firmskyblock:item/spiked_hook__1"
 }

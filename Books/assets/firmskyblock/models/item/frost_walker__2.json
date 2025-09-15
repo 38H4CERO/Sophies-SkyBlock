@@ -1,6 +1,3 @@
 {
-	"parent": "minecraft:item/generated",
-	"textures": {
-		"layer0": "cittofirmgenerated:item/enchant_books/armor/frost_walker"
-	}
+	"parent": "firmskyblock:item/frost_walker__1"
 }

@@ -1,6 +1,3 @@
 {
-	"parent": "minecraft:item/generated",
-	"textures": {
-		"layer0": "cittofirmgenerated:item/enchant_books/tools/flowstate"
-	}
+	"parent": "firmskyblock:item/ultimate_flowstate__1"
 }

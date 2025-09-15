@@ -1,6 +1,7 @@
 {
 	"parent": "minecraft:item/generated",
 	"textures": {
-		"layer0": "cittofirmgenerated:item/enchant_books/multi/ulti_wise"
+		"layer0": "cittofirmgenerated:item/enchant_books/book_multi",
+		"layer1": "cittofirmgenerated:item/enchant_books/multi/ulti_wise"
 	}
 }

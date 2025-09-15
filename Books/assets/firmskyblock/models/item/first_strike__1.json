@@ -1,6 +1,7 @@
 {
 	"parent": "minecraft:item/generated",
 	"textures": {
-		"layer0": "cittofirmgenerated:item/enchant_books/weaponry/strike_first"
+		"layer0": "cittofirmgenerated:item/enchant_books/book_weaponry",
+		"layer1": "cittofirmgenerated:item/enchant_books/weaponry/strike_first"
 	}
 }

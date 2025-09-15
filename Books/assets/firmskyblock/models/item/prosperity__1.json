@@ -1,6 +1,7 @@
 {
 	"parent": "minecraft:item/generated",
 	"textures": {
-		"layer0": "cittofirmgenerated:item/enchant_books/equipment/prosperity"
+		"layer0": "cittofirmgenerated:item/enchant_books/book_equipment",
+		"layer1": "cittofirmgenerated:item/enchant_books/equipment/prosperity"
 	}
 }

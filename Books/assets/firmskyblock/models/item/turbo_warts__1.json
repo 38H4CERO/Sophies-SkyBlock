@@ -1,6 +1,7 @@
 {
 	"parent": "minecraft:item/generated",
 	"textures": {
-		"layer0": "cittofirmgenerated:item/enchant_books/farming/warts"
+		"layer0": "cittofirmgenerated:item/enchant_books/book_farming",
+		"layer1": "cittofirmgenerated:item/enchant_books/farming/wartz"
 	}
 }

@@ -1,6 +1,3 @@
 {
-	"parent": "minecraft:item/generated",
-	"textures": {
-		"layer0": "cittofirmgenerated:item/enchant_books/weaponry/mana_steal"
-	}
+	"parent": "firmskyblock:item/mana_steal__1"
 }

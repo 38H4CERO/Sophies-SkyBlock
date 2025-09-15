@@ -1,6 +1,3 @@
 {
-	"parent": "minecraft:item/generated",
-	"textures": {
-		"layer0": "cittofirmgenerated:item/enchant_books/armor/prot_blast"
-	}
+	"parent": "firmskyblock:item/blast_protection__1"
 }

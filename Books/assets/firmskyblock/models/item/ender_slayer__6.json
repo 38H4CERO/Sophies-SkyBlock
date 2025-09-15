@@ -1,6 +1,3 @@
 {
-	"parent": "minecraft:item/generated",
-	"textures": {
-		"layer0": "cittofirmgenerated:item/enchant_books/weaponry/ender_slayer"
-	}
+	"parent": "firmskyblock:item/ender_slayer__1"
 }

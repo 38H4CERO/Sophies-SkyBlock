@@ -1,6 +1,3 @@
 {
-	"parent": "minecraft:item/generated",
-	"textures": {
-		"layer0": "cittofirmgenerated:item/enchant_books/weaponry/ulti_soul_eater"
-	}
+	"parent": "firmskyblock:item/ultimate_soul_eater__1"
 }

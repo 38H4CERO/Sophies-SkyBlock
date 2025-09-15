@@ -1,6 +1,3 @@
 {
-	"parent": "minecraft:item/generated",
-	"textures": {
-		"layer0": "cittofirmgenerated:item/enchant_books/weaponry/life_steal"
-	}
+	"parent": "firmskyblock:item/life_steal__1"
 }

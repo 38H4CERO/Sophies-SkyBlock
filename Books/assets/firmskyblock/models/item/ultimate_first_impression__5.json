@@ -1,6 +1,3 @@
 {
-	"parent": "minecraft:item/generated",
-	"textures": {
-		"layer0": "cittofirmgenerated:item/enchant_books/tools/ulti_first_impression"
-	}
+	"parent": "firmskyblock:item/ultimate_first_impression__1"
 }

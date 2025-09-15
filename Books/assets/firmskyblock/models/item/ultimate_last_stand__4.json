@@ -1,6 +1,3 @@
 {
-	"parent": "minecraft:item/generated",
-	"textures": {
-		"layer0": "cittofirmgenerated:item/enchant_books/armor/ulti_last_stand"
-	}
+	"parent": "firmskyblock:item/ultimate_last_stand__1"
 }

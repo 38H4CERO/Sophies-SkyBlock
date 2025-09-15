@@ -2,10 +2,14 @@ Copyright (c) 2025 Bentcheesee
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this package and associated documentation files (the "Package" or "Content"), to deal in the Software with marginalized restriction.  Any person is allowed to use, copy, distribute, and modify this Package by any means under the following conditions:
 
-1: The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Package.
+1: The above copyright notice and this permission notice shall be included in all copies and substantial portions of the Package.
 
-2: Persons are not to sell any Packages or Content by any means, or attempt to claim as one's own work, unless the following conditions apply:
-	a: The Package has been modified substantially to be unrecognisable from orginal Package
+2: Persons are not to sell any Packages or Content by any means.
+
+3: Persons are not to attempt to claim any portion of the Content as one's own work, unless the following conditions apply:
+	a: The Package has been modified substantially to be unrecognisable from Orginal Package (a provided initial version of Package before modifications).
 	b: The Package includes modified Content, in which the Modifier (person who modified any Content) must instead include credit of ownership to Bentcheesee and any previous Modifiers and document themselves for any future potential Modifiers of their Modified Package and Content.
 
-3: In no event shall the authors or copyright holders be liable for any claim, damages, or other liability, whether in an action of contract, tort or otherwise, arising from, out of or in connection with the Package or the use or other dealings in the Package
+4: If the Package is to be modified by any means, persons must always include documentation file `pack.soph` as provided in Original Package.
+
+5: In no event shall the authors or copyright holders be liable for any claim, damages, or other liability, whether in an action of contract, tort or otherwise, arising from, out of or in connection with the Package or the use or other dealings in the Package.
