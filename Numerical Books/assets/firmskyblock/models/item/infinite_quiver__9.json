@@ -1,0 +1,6 @@
+{
+	"parent": "firmskyblock:item/infinite_quiver__1",
+	"textures": {
+		"layer2": "sophie:item/numlays/nine"
+	}
+}

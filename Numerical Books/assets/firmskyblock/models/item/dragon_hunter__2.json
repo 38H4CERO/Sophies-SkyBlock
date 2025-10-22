@@ -1,0 +1,6 @@
+{
+	"parent": "firmskyblock:item/dragon_hunter__1",
+	"textures": {
+		"layer2": "sophie:item/numlays/two"
+	}
+}

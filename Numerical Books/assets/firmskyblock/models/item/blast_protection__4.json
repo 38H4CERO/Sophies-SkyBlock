@@ -1,0 +1,6 @@
+{
+	"parent": "firmskyblock:item/blast_protection__1",
+	"textures": {
+		"layer2": "sophie:item/numlays/four"
+	}
+}

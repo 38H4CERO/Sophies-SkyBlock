@@ -1,0 +1,6 @@
+{
+	"parent": "firmskyblock:item/hardened_mana__1",
+	"textures": {
+		"layer2": "sophie:item/numlays/three"
+	}
+}
