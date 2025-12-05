@@ -1,3 +1,6 @@
 {
-	"parent": "firmskyblock:item/fire_aspect__1"
+	"parent": "firmskyblock:item/fire_aspect__1",
+	"textures": {
+		"layer2": "sophie:item/numlays/two"
+	}
 }

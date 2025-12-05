@@ -1,0 +1,9 @@
+{
+    "rpo.SophieBooks": "Sophie's Enchant Books",
+    "rpo.SophieBooks.numericalBooks": "Numerics",
+    "rpo.SophieBooks.numericalBooks.tooltip": "Enables numbers baked into bottom right of textures for Enchant Level.",
+    "rpo.SophieBooks.bookStyle": "Book Style",
+    "rpo.SophieBooks.bookStyle.tooltip": "Changes the texture of the book background.\nTrue = Modern, False = Legacy",
+    "rpo.SophieBooks.animatedTextures": "Animated Textures",
+    "rpo.SophieBooks.animatedTextures.tooltip": "Replaces a few textures to no longer be animated when set to false."
+}

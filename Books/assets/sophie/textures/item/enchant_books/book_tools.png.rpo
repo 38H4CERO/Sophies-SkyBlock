@@ -1,0 +1,4 @@
+{
+    condition: "bookStyle",
+    fallback: "assets/sophie/textures/item/enchant_books/legacy_tools.png"
+}

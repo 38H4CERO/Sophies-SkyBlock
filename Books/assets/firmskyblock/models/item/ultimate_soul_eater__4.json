@@ -1,3 +1,6 @@
 {
-	"parent": "firmskyblock:item/ultimate_soul_eater__1"
+	"parent": "firmskyblock:item/ultimate_soul_eater__1",
+	"textures": {
+		"layer3": "sophie:item/numlays/four"
+	}
 }

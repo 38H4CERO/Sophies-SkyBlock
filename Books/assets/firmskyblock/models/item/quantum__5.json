@@ -1,3 +1,6 @@
 {
-	"parent": "firmskyblock:item/quantum__3"
+	"parent": "firmskyblock:item/quantum__3",
+	"textures": {
+		"layer2": "sophie:item/numlays/five"
+	}
 }

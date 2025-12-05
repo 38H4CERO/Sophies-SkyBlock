@@ -1,3 +1,6 @@
 {
-	"parent": "firmskyblock:item/experience__1"
+	"parent": "firmskyblock:item/experience__1",
+	"textures": {
+		"layer2": "sophie:item/numlays/three"
+	}
 }

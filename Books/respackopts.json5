@@ -1,0 +1,10 @@
+{
+    id: "SophieBooks",
+    version: 13,
+    capabilities: ["FileFilter", "DirFilter"],
+    conf: {
+        numericalBooks: true,
+        bookStyle: true,
+        animatedTextures: true
+    }
+}

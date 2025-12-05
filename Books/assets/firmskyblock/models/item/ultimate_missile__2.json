@@ -1,3 +1,6 @@
 {
-	"parent": "firmskyblock:item/ultimate_missile__1"
+	"parent": "firmskyblock:item/ultimate_missile__1",
+	"textures": {
+		"layer2": "sophie:item/numlays/two"
+	}
 }

@@ -1,3 +1,6 @@
 {
-	"parent": "firmskyblock:item/depth_strider__1"
+	"parent": "firmskyblock:item/depth_strider__1",
+	"textures": {
+		"layer2": "sophie:item/numlays/two"
+	}
 }

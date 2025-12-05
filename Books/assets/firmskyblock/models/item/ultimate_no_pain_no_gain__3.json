@@ -1,3 +1,6 @@
 {
-	"parent": "firmskyblock:item/ultimate_no_pain_no_gain__1"
+	"parent": "firmskyblock:item/ultimate_no_pain_no_gain__1",
+	"textures": {
+		"layer2": "sophie:item/numlays/three"
+	}
 }

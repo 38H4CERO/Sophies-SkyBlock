@@ -1,3 +1,6 @@
 {
-	"parent": "firmskyblock:item/knockback__1"
+	"parent": "firmskyblock:item/knockback__1",
+	"textures": {
+		"layer2": "sophie:item/numlays/two"
+	}
 }

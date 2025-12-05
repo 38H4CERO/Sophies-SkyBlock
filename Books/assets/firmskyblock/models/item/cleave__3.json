@@ -1,3 +1,6 @@
 {
-	"parent": "firmskyblock:item/cleave__1"
+	"parent": "firmskyblock:item/cleave__1",
+	"textures": {
+		"layer2": "sophie:item/numlays/three"
+	}
 }

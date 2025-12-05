@@ -1,3 +1,6 @@
 {
-	"parent": "firmskyblock:item/big_brain__1"
+	"parent": "firmskyblock:item/big_brain__1",
+	"textures": {
+		"layer2": "sophie:item/numlays/two"
+	}
 }
