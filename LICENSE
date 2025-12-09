@@ -12,7 +12,7 @@ Copyright (c) 2025 Bentcheesee
 
 	d: If the Package is to be modified by any means, persons must always include documentation file `pack.soph` as provided in Original Package.
 
-	e: If the Package is to be included within a Modpack (collection or bundle of Minecraft mods and resources), creator of the Modpack must notify Package owner(s) of the Package's inclusion within the Modpack.
+	e: If the Package is to be included within a Modpack (collection or bundle of mods and resources for a software), creator of the Modpack must notify Package owner(s) of the Package's initial inclusion within the Modpack.
 		e1: Owner(s) of the Package may decline the Package's inclusion within a Modpack in which the creator of the Modpack must remove the Package from the Modpack immediately.  Any Owner of the Package may decline at any time and declaration of denial must be respected, even if any/all other owner(s) may approve of Package's inclusion within a Modpack.
 
 2: In no event shall the authors or copyright holders be liable for any claim, damages, or other liability, whether in an action of contract, tort or otherwise, arising from, out of or in connection with the Package or the use or other dealings in the Package.
