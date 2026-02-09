@@ -1,0 +1,10 @@
+{
+	"pack":{
+		"pack_format":55,
+		"supported_formats": [55,999],
+		"min_format": 55,
+		"max_format": 999,
+		"description":"§aMy UI is all Phooey\n§e UI by Bentcheesee"
+	},
+	"resource_pack_id": "SOPHIE_UI"
+}
