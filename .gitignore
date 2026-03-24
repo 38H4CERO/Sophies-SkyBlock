@@ -1,0 +1,10 @@
+# filetypes:
+*.zip
+
+# Internal License
+*/LICENSE
+
+# misc
+changelog_format*
+*sophreader
+rescheck*
