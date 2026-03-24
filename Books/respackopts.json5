@@ -1,10 +1,15 @@
 {
     id: "SophieBooks",
     version: 13,
-    capabilities: ["FileFilter", "DirFilter"],
+    capabilities: ["FileFilter","DirFilter"],
     conf: {
-        numericalBooks: true,
-        bookStyle: true,
-        animatedTextures: true
+        animatedTextures: true,
+        bookStyle: [
+            "sophie",
+            "legacy",
+            "vanilla"
+        ],
+        foragingBooks: false,
+        numericalBooks: true
     }
 }
