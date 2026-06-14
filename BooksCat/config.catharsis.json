@@ -1,0 +1,56 @@
+[
+  {
+    "type": "tab",
+    "title": "Sophie Books",
+    "options": [
+      {
+        "type": "boolean",
+        "id": "animatedTextures",
+        "title": {
+          "text": "Animated textures"
+        },
+        "description": "",
+        "default": true
+      },
+      {
+        "type": "dropdown",
+        "id": "bookStyle",
+        "title": "Book Style",
+        "description": "",
+        "options": [
+          {
+            "value": "sophie",
+            "text": "Sophie",
+            "default": true
+          },
+          {
+            "value": "legacy",
+            "text": "Legacy"
+          },
+          {
+            "value": "vanilla",
+            "text": "Vanilla"
+          }
+        ]
+      },
+      {
+        "type": "boolean",
+        "id": "foragingBooks",
+        "title": {
+          "text": "Foraging Colour"
+        },
+        "description": "",
+        "default": true
+      },
+      {
+        "type": "boolean",
+        "id": "numericalBooks",
+        "title": {
+          "text": "Numerics"
+        },
+        "description": "",
+        "default": true
+      }
+    ]
+  }
+]

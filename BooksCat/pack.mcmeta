@@ -1,0 +1,26 @@
+{
+	"pack":{
+		"pack_format":55,
+		"supported_formats": [55,999],
+		"min_format": 55,
+		"max_format": 999,
+		"description":"§cRandom enchant, GO!\n§eBooks by §bBentcheesee"
+	},
+	"resource_pack_id": "SOPHIE_BOOKS",
+	"catharsis:pack/v1": {
+        "id": "sophies_books",
+        "version": "1.0",
+        "dependencies": { "catharsis": ">=1.0.0-beta.14" }
+    },
+    "fabric:overlays": {
+        "entries": [
+        {
+            "directory": "the_end",
+            "condition": {
+                "condition": "catharsis:config",
+                "pack": "skyblock_dark_mode",
+                "id": "dms_the_end"
+            }
+        }]
+    }
+}
