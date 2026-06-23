@@ -2,7 +2,10 @@
   "model": {
     "type": "minecraft:composite",
     "models": [
-      { "type": "catharsis:fallthrough" },
+      {
+        "type": "minecraft:model",
+        "model": "sophie:item/enchants/bow/infinite_quiver"
+      },
       {
         "type": "minecraft:range_dispatch",
         "property": "catharsis:enchanted_book_level",

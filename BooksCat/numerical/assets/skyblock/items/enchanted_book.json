@@ -2,7 +2,10 @@
   "model": {
     "type": "minecraft:composite",
     "models": [
-      { "type": "catharsis:fallthrough" },
+      {
+        "type": "minecraft:model",
+        "model": "minecraft:item/enchanted_book"
+      },
       {
         "type": "minecraft:range_dispatch",
         "property": "catharsis:enchanted_book_level",
