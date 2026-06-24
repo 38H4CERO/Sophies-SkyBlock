@@ -24,11 +24,40 @@
         }
       },
       {
+        "directory": "bookStyleLegacy",
+        "condition": {
+          "condition": "catharsis:config",
+          "pack": "sophies_books",
+          "id": "bookStyle",
+          "value": "legacy"
+        }
+      },
+      {
         "directory": "numerical",
         "condition": {
           "condition": "catharsis:config",
           "pack": "sophies_books",
           "id": "numericalBooks"
+        }
+      },
+      {
+        "directory": "enchantIcons",
+        "condition": {
+          "condition": "fabric:or",
+          "values": [
+            {
+              "condition": "catharsis:config",
+              "pack": "sophies_books",
+              "id": "bookStyle",
+              "value": "sophie"
+            },
+            {
+              "condition": "catharsis:config",
+              "pack": "sophies_books",
+              "id": "bookStyle",
+              "value": "legacy"
+            }
+          ]
         }
       }
     ]
