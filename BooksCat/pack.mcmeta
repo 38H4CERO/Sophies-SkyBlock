@@ -33,14 +33,6 @@
         }
       },
       {
-        "directory": "numerical",
-        "condition": {
-          "condition": "catharsis:config",
-          "pack": "sophies_books",
-          "id": "numericalBooks"
-        }
-      },
-      {
         "directory": "enchantIcons",
         "condition": {
           "condition": "fabric:or",
@@ -58,6 +50,14 @@
               "value": "legacy"
             }
           ]
+        }
+      },
+      {
+        "directory": "numerical",
+        "condition": {
+          "condition": "catharsis:config",
+          "pack": "sophies_books",
+          "id": "numericalBooks"
         }
       }
     ]

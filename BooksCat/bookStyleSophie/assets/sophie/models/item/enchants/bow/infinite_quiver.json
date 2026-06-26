@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "sophie:item/enchants/book_weaponry",
-    "layer1": "sophie:item/enchants/bow/infinite_quiver"
-  }
-}

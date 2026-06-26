@@ -4,7 +4,11 @@
     "models": [
       {
         "type": "minecraft:model",
-        "model": "minecraft:item/enchanted_book"
+        "model": "sophie:item/weaponry"
+      },
+      {
+        "type": "minecraft:model",
+        "model": "sophie:item/enchants/bow/infinite_quiver"
       },
       {
         "type": "minecraft:range_dispatch",
