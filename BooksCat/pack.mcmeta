@@ -33,6 +33,15 @@
         }
       },
       {
+        "directory": "bookStyleVanilla",
+        "condition": {
+          "condition": "catharsis:config",
+          "pack": "sophies_books",
+          "id": "bookStyle",
+          "value": "vanilla"
+        }
+      },
+      {
         "directory": "enchantIcons",
         "condition": {
           "condition": "fabric:or",
@@ -48,6 +57,12 @@
               "pack": "sophies_books",
               "id": "bookStyle",
               "value": "legacy"
+            },
+            {
+              "condition": "catharsis:config",
+              "pack": "sophies_books",
+              "id": "bookStyle",
+              "value": "vanilla"
             }
           ]
         }
@@ -58,6 +73,14 @@
           "condition": "catharsis:config",
           "pack": "sophies_books",
           "id": "numericalBooks"
+        }
+      },
+      {
+        "directory": "foragingColors",
+        "condition": {
+          "condition": "catharsis:config",
+          "pack": "sophies_books",
+          "id": "foragingBooks"
         }
       }
     ]

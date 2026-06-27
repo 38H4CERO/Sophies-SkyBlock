@@ -1,0 +1,32 @@
+{
+  "model": {
+    "type": "minecraft:composite",
+    "models": [
+      {
+        "type": "minecraft:model",
+        "model": "sophie:item/foraging"
+      },
+      {
+        "type": "minecraft:model",
+        "model": "sophie:item/enchants/tools/absorb"
+      },
+      {
+        "type": "minecraft:range_dispatch",
+        "property": "catharsis:enchanted_book_level",
+        "fallback": {
+          "type": "minecraft:model",
+          "model": "sophie:item/numlays/empty"
+        },
+        "entries": [
+          {
+            "threshold": 1,
+            "model": {
+              "type": "minecraft:model",
+              "model": "sophie:item/numlays/one"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}
