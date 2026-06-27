@@ -76,6 +76,14 @@
         }
       },
       {
+        "directory": "animatedTextures",
+        "condition": {
+          "condition": "catharsis:config",
+          "pack": "sophies_books",
+          "id": "animatedTextures"
+        }
+      },
+      {
         "directory": "foragingColors",
         "condition": {
           "condition": "catharsis:config",

@@ -1,0 +1,53 @@
+{
+  "model": {
+    "type": "minecraft:composite",
+    "models": [
+      {
+        "type": "minecraft:model",
+        "model": "sophie:item/farming"
+      },
+      {
+        "type": "minecraft:model",
+        "model": "sophie:item/enchants/farming/dedication"
+      },
+      {
+        "type": "minecraft:range_dispatch",
+        "property": "catharsis:enchanted_book_level",
+        "fallback": {
+          "type": "minecraft:model",
+          "model": "sophie:item/numlays/empty"
+        },
+        "entries": [
+          {
+            "threshold": 1,
+            "model": {
+              "type": "minecraft:model",
+              "model": "sophie:item/numlays/one"
+            }
+          },
+          {
+            "threshold": 2,
+            "model": {
+              "type": "minecraft:model",
+              "model": "sophie:item/numlays/two"
+            }
+          },
+          {
+            "threshold": 3,
+            "model": {
+              "type": "minecraft:model",
+              "model": "sophie:item/numlays/three"
+            }
+          },
+          {
+            "threshold": 4,
+            "model": {
+              "type": "minecraft:model",
+              "model": "sophie:item/numlays/four"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

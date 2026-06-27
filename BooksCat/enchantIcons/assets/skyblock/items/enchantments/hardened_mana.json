@@ -4,11 +4,11 @@
     "models": [
       {
         "type": "minecraft:model",
-        "model": "sophie:item/weaponry"
+        "model": "sophie:item/armor"
       },
       {
         "type": "minecraft:model",
-        "model": "sophie:item/enchants/weaponry/infinite_quiver"
+        "model": "sophie:item/enchants/armor/hardened_mana"
       },
       {
         "type": "minecraft:range_dispatch",

@@ -8,7 +8,7 @@
       },
       {
         "type": "minecraft:model",
-        "model": "sophie:item/enchants/weaponry/infinite_quiver"
+        "model": "sophie:item/enchants/weaponry/gravity"
       },
       {
         "type": "minecraft:range_dispatch",
@@ -58,34 +58,6 @@
             "model": {
               "type": "minecraft:model",
               "model": "sophie:item/numlays/six"
-            }
-          },
-          {
-            "threshold": 7,
-            "model": {
-              "type": "minecraft:model",
-              "model": "sophie:item/numlays/seven"
-            }
-          },
-          {
-            "threshold": 8,
-            "model": {
-              "type": "minecraft:model",
-              "model": "sophie:item/numlays/eight"
-            }
-          },
-          {
-            "threshold": 9,
-            "model": {
-              "type": "minecraft:model",
-              "model": "sophie:item/numlays/nine"
-            }
-          },
-          {
-            "threshold": 10,
-            "model": {
-              "type": "minecraft:model",
-              "model": "sophie:item/numlays/ten"
             }
           }
         ]
